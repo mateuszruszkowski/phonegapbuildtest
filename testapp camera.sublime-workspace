@@ -1,0 +1,621 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Urela",
+				"UrelatedTypes"
+			],
+			[
+				"tasks",
+				"tasksToday"
+			],
+			[
+				"tasksTo",
+				"tasksTomorrow"
+			],
+			[
+				"task",
+				"task_due_date"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bu",
+				"AA_Buildings"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"new",
+				"newTodoTitle"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "www/js/my-app.js",
+			"settings":
+			{
+				"buffer_size": 3173,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/about.html",
+			"settings":
+			{
+				"buffer_size": 1423,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config.xml",
+			"settings":
+			{
+				"buffer_size": 2039,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/index.html",
+			"settings":
+			{
+				"buffer_size": 4640,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 500.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"scheme",
+				"UI: Select Theme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 646.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/laragon/www/phonegap/testapp",
+		"/C/laragon/www/phonegap/testapp/plugins",
+		"/C/laragon/www/phonegap/testapp/www",
+		"/C/laragon/www/phonegap/testapp/www/js"
+	],
+	"file_history":
+	[
+		"/C/laragon/www/phonegap/testapp/platforms/browser/www/index.html",
+		"/C/laragon/www/phonegap/testapp/www/about.html",
+		"/C/laragon/www/phonegap/testapp/www/index.html",
+		"/C/laragon/www/phonegap/testapp/config.xml",
+		"/C/laragon/www/twitvue/src/api.js",
+		"/C/laragon/www/twitvue/src/store.js",
+		"/C/laragon/www/twitvue/src/pages/record-view.vue",
+		"/C/laragon/www/twitvue/src/routes.js",
+		"/C/laragon/www/twitvue/src/pages/tasks.vue",
+		"/C/laragon/www/twitvue/src/app.vue",
+		"/C/laragon/www/twitvue/node_modules/framework7-vue/src/components/messagebar.vue",
+		"/C/laragon/www/twitvue/src/pages/buildings.vue",
+		"/C/laragon/www/twitvue/src/pages/contacts.vue",
+		"/C/laragon/www/twitvue/src/pages/companies.vue",
+		"/C/laragon/www/twitvue/src/pages/feeproposals.vue",
+		"/C/laragon/www/twitvue/src/pages/chat.vue",
+		"/C/laragon/www/twitvue/src/css/app.css",
+		"/C/laragon/www/twitvue/src/pages/projects.vue",
+		"/C/laragon/www/twitvue/src/pages/backup/___about.vue",
+		"/C/laragon/www/twitvue/src/pages/user.vue",
+		"/C/laragon/www/twitvue/src/taski backop.vue",
+		"/C/laragon/www/twitvue/build/utils.js",
+		"/C/laragon/www/twitvue/src/main.js",
+		"/C/laragon/www/twitvue/src/pages/about.vue",
+		"/C/laragon/www/twitvue/src/pages/quicktasks.vue",
+		"/C/laragon/www/twitvue/config/index.js",
+		"/C/laragon/www/twitvue/build/webpack.base.conf.js",
+		"/C/laragon/www/twitvue/index.html",
+		"/C/laragon/www/twitvue/ine do indexu.html",
+		"/C/laragon/www/twitvue/dist/index.html",
+		"/C/laragon/www/twitvue/build/webpack.prod.conf.js",
+		"/C/laragon/www/twitvue/build/webpack.dev.conf.js",
+		"/C/laragon/www/twitvue/node_modules/framework7-vue/dist/framework7-vue.js",
+		"/C/laragon/www/twitvue/node_modules/framework7-vue/src/components/list-item.vue",
+		"/C/laragon/www/twitvue/node_modules/framework7/dist/js/framework7.js",
+		"/C/laragon/www/twitvue/README.md",
+		"/C/laragon/www/twitvue/src/static/rms.appcache",
+		"/C/laragon/www/twitvue/npm-debug.log",
+		"/C/laragon/www/twitvue/node_modules/webpack/buildin/module.js",
+		"/C/laragon/www/twitvue/manifest.php",
+		"/C/laragon/www/twitvue/src/.htaccess",
+		"/C/laragon/www/twitvue/dist/CACHE MANIFEST.manifest",
+		"/C/laragon/www/twitvue/src/cache.manifest",
+		"/C/laragon/www/twitvue/src/pages/tasks_backup.vue",
+		"/C/laragon/www/twitvue/src/pages/record-edit.vue",
+		"/C/laragon/www/twitvue/src/pages/old.vue",
+		"/C/laragon/www/twitvue/twitvue.sublime-project",
+		"/C/laragon/www/twitvue/node_modules/framework7/src/js/framework7/modals.js",
+		"/C/laragon/www/twitvue/src/pages/login.vue",
+		"/C/laragon/www/twitvue/dist/sftp-config.json",
+		"/C/laragon/www/twitvue/node_modules/framework7/src/js/dom7/dom7.js",
+		"/C/laragon/www/twitvue/node_modules/accepts/README.md",
+		"/C/laragon/www/twitvue/build/dev-server.js",
+		"/C/laragon/www/vuextodo/src/store.js",
+		"/C/laragon/www/vuextodo/src/routes.js",
+		"/C/laragon/www/vuextodo/src/pages/about.vue",
+		"/C/laragon/www/vuextodo/src/pages/dynamic-route.vue",
+		"/C/laragon/www/vuextodo/src/pages/form.vue",
+		"/C/laragon/www/vuextodo/config/index.js",
+		"/C/laragon/www/vuextodo/src/main.js",
+		"/C/laragon/www/vuextodo/mojlogin.vue",
+		"/C/laragon/www/vuextodo/src/app.vue",
+		"/C/laragon/www/rms/custom/modules/AA_Departments/clients/base/views/recordlist/recordlist.js",
+		"/C/laragon/www/rms/cache/javascript/base/components_0f9f7b9cc0f8de2ce4bdd05a183903e1.js",
+		"/C/laragon/www/rms/custom/modules/Project/clients/base/views/record/record.php",
+		"/C/laragon/www/rms/kk.js",
+		"/C/laragon/www/rms/custom/clients/base/views/tasks-dashlet-base/tasks-dashlet-base.js",
+		"/C/laragon/www/rms/custom/clients/base/views/tasks-quicktasks/tasks-quicktasks.js",
+		"/C/laragon/www/rms/php_error.txt",
+		"/C/laragon/www/rms/clients/base/layouts/filter/filter.js",
+		"/C/laragon/www/rms/jssource/src_files/modules/pmse_Emails_Templates/clients/base/views/compose-varbook-list/compose-varbook-list.js",
+		"/C/laragon/www/rms/custom/modules/AC_FeeProposal/clients/base/layouts/create-actions/create-actions.php",
+		"/C/laragon/www/rms/custom/clients/base/views/notifications/notifications.js",
+		"/C/laragon/www/rms/cache/javascript/base/components_ce7d2a83765b43f07fb3075fe02a914d.js",
+		"/C/laragon/www/rms/cache/javascript/base/components_82518ad0e7b78aad92fd9a2eebf14565.js",
+		"/C/laragon/www/rms/cache/javascript/base/components_a3e6b962288752224badcdbe30cd105b.js",
+		"/C/laragon/www/rms/cache/javascript/base/components_a3ac8d0839789414ceb6d088bfeaaff6.js",
+		"/C/laragon/www/rms/cache/javascript/base/components_98b56de83e429ad803a2cf9e3717c8f5.js",
+		"/C/laragon/www/rms/cache/javascript/base/components_887d854d9fe1061a88ddb48161523d60.js",
+		"/C/laragon/www/rms/cache/javascript/base/components_9245dbbf977698f5e00058a0b5d65baf.js",
+		"/C/laragon/www/rms/cache/javascript/base/backup.js",
+		"/C/laragon/www/rms/cache/javascript/base/components_7a9ee96bfb9db289b23808beb6e61b2e.js",
+		"/C/laragon/www/rms/cache/javascript/base/components_daa7c1addc87fa9e2ddeb68afd8206e7.js",
+		"/C/laragon/www/rms/cache/javascript/base/components_e7031b9f32c52d48ccdd1fa912988a4e.js",
+		"/C/laragon/www/rms/cache/javascript/base/components_e9911852bb2c8c1c412be3aa63974100.js",
+		"/C/laragon/www/rms/cache/javascript/base/components_f4d27b44b9811a19ac29c9b2d2a4cf03.js",
+		"/C/laragon/www/rms/cache/javascript/base/components_186aab2d05770662dddb1a482b463651.js",
+		"/C/laragon/www/rms/cache/javascript/base/components_4422fa2e103eb6a282b5ce8460b69878.js",
+		"/C/laragon/www/rms/cache/javascript/base/components_49b2cd05b06f10e2a31f066742e1f2b4.js",
+		"/C/laragon/www/rms/cache/javascript/base/components_56edf3856b676dd9b81ca1892721541f.js",
+		"/C/laragon/www/rms/cache/javascript/base/components_5dbf4b744359a79c53f60115f1916b99.js",
+		"/C/laragon/www/rms/cache/javascript/base/components_5e3da960f5372b6f0e383d03ada9af8c.js",
+		"/C/laragon/www/rms/cache/javascript/base/components_630444d618a0d963b2d8d8a15cf73700.js",
+		"/C/laragon/www/rms/custom/copyInvDoc.php",
+		"/C/laragon/www/rms/include/PDFMerger/fpdi/include/tcpdf_static.php",
+		"/C/laragon/www/rms/custom/manageImports.php",
+		"/C/laragon/www/rms/custom/answersMail.php",
+		"/C/laragon/www/rms/vendor/nusoap/nusoap.php",
+		"/C/laragon/www/rms/rms.sublime-project",
+		"/C/laragon/www/rms/custom/SoapTest.php",
+		"/C/laragon/www/rms/custom/SoapFullTest.php",
+		"/C/laragon/www/rms/custom/application/Ext/EntryPointRegistry/entry_point_registry.ext.php",
+		"/C/laragon/www/rms/custom/Extension/application/Ext/EntryPointRegistry/soap.php",
+		"/C/laragon/www/rms/vendor/nusoap",
+		"/C/Users/mateu/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings"
+	],
+	"find":
+	{
+		"height": 69.0
+	},
+	"find_in_files":
+	{
+		"height": 260.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"options",
+			"isplayImage",
+			"script-src"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "www/js/my-app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								815,
+								815
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"last_modified_indicator": true,
+							"last_modified_indicator_file_save_clear": false,
+							"last_modified_indicator_multiline": true,
+							"origPos":
+							[
+								0.0,
+								480.8
+							],
+							"remote_loading": false,
+							"sublime_recent_sort_is_transient": false,
+							"syncScroll": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript Ultimate/javascript.dom.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 601.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "www/about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1423,
+								1423
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"last_modified_indicator": true,
+							"last_modified_indicator_file_save_clear": false,
+							"last_modified_indicator_multiline": true,
+							"origPos":
+							[
+								0.0,
+								520.8
+							],
+							"remote_loading": false,
+							"sublime_recent_sort_is_transient": false,
+							"syncScroll": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 609.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "config.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2039,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1295,
+								1295
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"last_modified_indicator": true,
+							"last_modified_indicator_file_save_clear": false,
+							"last_modified_indicator_multiline": true,
+							"origPos":
+							[
+								0.0,
+								1004.0
+							],
+							"remote_loading": false,
+							"sublime_recent_sort_is_transient": false,
+							"syncScroll": false,
+							"synced": false,
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1255.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "www/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4640,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1043,
+								1043
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"last_modified_indicator": true,
+							"last_modified_indicator_file_save_clear": false,
+							"last_modified_indicator_multiline": true,
+							"origPos":
+							[
+								0.0,
+								1210.4
+							],
+							"remote_loading": false,
+							"sublime_recent_sort_is_transient": false,
+							"syncScroll": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1513.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 52.0
+	},
+	"input":
+	{
+		"height": 90.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 98.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 244.0
+	},
+	"pinned_build_system": "",
+	"project": "testapp camera.sublime-project",
+	"replace":
+	{
+		"height": 99.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"message",
+				"node_modules\\framework7-vue\\src\\components\\messagebar.vue"
+			],
+			[
+				"module.js",
+				"node_modules\\webpack\\buildin\\module.js"
+			],
+			[
+				"store",
+				"src\\store.js"
+			],
+			[
+				"update",
+				"custom\\updatePhoto.php"
+			],
+			[
+				"customodultasksclienbasereco",
+				"custom\\modules\\Tasks\\clients\\base\\views\\record\\record.js"
+			],
+			[
+				"php",
+				"php_error.txt"
+			],
+			[
+				"custommodufeecrea",
+				"custom\\modules\\AC_FeeProposal\\clients\\base\\layouts\\create-actions\\create-actions.php"
+			],
+			[
+				"custommoduleprojecliebasrec",
+				"custom\\modules\\Project\\clients\\base\\views\\record\\record.js"
+			],
+			[
+				"getdata",
+				"custom\\getData.php"
+			],
+			[
+				"custommodudeparclebasrecli",
+				"custom\\modules\\AA_Departments\\clients\\base\\views\\recordlist\\recordlist.js"
+			],
+			[
+				"copyinvdo",
+				"custom\\copyInvDoc.php"
+			],
+			[
+				"phpe",
+				"php_error.txt"
+			],
+			[
+				"custom/modules/projectcustom",
+				"custom\\modules\\Project\\customlogic.php"
+			],
+			[
+				"customgetdata",
+				"custom\\getData.php"
+			],
+			[
+				"sublime",
+				"rms.sublime-project"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
